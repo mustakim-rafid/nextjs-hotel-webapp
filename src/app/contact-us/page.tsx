@@ -27,7 +27,7 @@ const eb_garamond = EB_Garamond({
     subsets: ['latin']
 })
 
-const page = () => {
+const ContactUsPage = () => {
     const [isSubmitting, setIsSubmitting] = useState(false)
     const {toast} = useToast()
 
@@ -148,4 +148,4 @@ const page = () => {
   )
 }
 
-export default page
+export default ContactUsPage
