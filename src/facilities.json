@@ -1,0 +1,26 @@
+[
+    {
+        "title": "THE GYM",
+        "image": "images/gymimg.png"
+    },
+    {
+        "title": "POOLSIDE BAR",
+        "image": "images/poolsidebarimg.png"
+    },
+    {
+        "title": "THE SPA",
+        "image": "images/spaimg.png"
+    },
+    {
+        "title": "SWIMMING POOL",
+        "image": "images/poolimg.png"
+    },
+    {
+        "title": "RESTAURANT",
+        "image": "images/resturantimg.png"
+    },
+    {
+        "title": "LAUNDRY",
+        "image": "images/lundryimg.png"
+    }
+]
